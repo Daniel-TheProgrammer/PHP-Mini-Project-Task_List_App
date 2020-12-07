@@ -7,7 +7,7 @@ class Task extends Model
     
 {
    
-    protected $fillable = ['title'];
+   protected $fillable = ['title'];
 
     public $timestamps = false;
     
